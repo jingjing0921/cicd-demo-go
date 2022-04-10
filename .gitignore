@@ -1,24 +1,7 @@
-#eclipse files
-.classpath
-.project
-.settings/
-
-# temp files
-/temp/
+#idea files
+.idea/
  
-# Java class files
-*.class
- 
-# Generated files
-/bin/
-
-#sources jars
-/lib/*-sources.jar
- 
-# Gradle files
-.gradle/
+# build files
 build/
  
- 
-# Keystore files
-*.jks
+
